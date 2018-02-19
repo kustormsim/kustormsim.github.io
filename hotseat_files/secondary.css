@@ -11,7 +11,7 @@ h3 {font-size:1.3em; font-weight:bold}
 
 /* header */
 #header {min-width:45em; white-space:nowrap;}
-#brand {background-attachment:scroll; background-image:url(http://www.srh.noaa.gov/css/default/images/noaa_banner.jpg); background-repeat:no-repeat; background-color:#DDE2FE; height:95px; color:#FFF; white-space:nowrap; clear:none;}
+#brand {background-attachment:scroll; background-image:url(/noaa_banner.jpg); background-repeat:no-repeat; background-color:#DDE2FE; height:95px; color:#FFF; white-space:nowrap; clear:none;}
 #brand h1 {margin:0px 0px 0px 135px; padding:10px 0px 0px 0px; font-size:110%; font-weight:bold;}
 #brand h2 {margin:0px 0px 0px 135px; padding:2px 0px 0px 0px; font-size:110%; font-weight:bold;}
 #brand a.noaalink {margin:0px; padding:0px; display:block; text-decoration:none; float:left; border:none; height:95px; width:135px; font-size:10%; color:#306;}
@@ -22,7 +22,7 @@ h3 {font-size:1.3em; font-weight:bold}
 /* end header */
 
 /* top navbar */
-#searchDiv {background-color:#102290; background-image:url(http://www.srh.noaa.gov/css/default/images/dangletab.jpg); background-repeat:no-repeat; padding-left:132px;}
+#searchDiv {background-color:#102290; background-image:url(/dangletab.jpg); background-repeat:no-repeat; padding-left:132px;}
 #searchDiv ul {list-style-type:none; margin:0; padding:0; font-weight:bold; color:#ff9; font-size:.78em;}
 #searchDiv ul li {display:inline;}
 #searchDiv ul li a {color:#fff; text-decoration:none; padding:0px 3.3em 0px 0px; height:1%;}
